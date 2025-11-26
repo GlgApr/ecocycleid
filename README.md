@@ -38,13 +38,13 @@ EcoCycle ID is a hyper-local, privacy-first waste exchange platform connecting w
 *   **Waste Providers**: Can upload a picture of their organic waste, get it analyzed by AI for suitability, and post it on the platform.
 *   **Waste Seekers**: Can view a map of available waste, filtered by their needs (e.g., for maggots, compost, or livestock feed).
 *   **Privacy-First**: Household locations are automatically "jittered" (slightly randomized) to protect user privacy.
-*   **AI-Powered Analysis**: Uses Google's Gemini 1.5 Flash to analyze waste images, estimating weight, composition, and suitability for various upcycling purposes.
+*   **AI-Powered Analysis**: Uses Google's Gemini 2.5 Flash to analyze waste images, estimating weight, composition, and suitability for various upcycling purposes.
 
 ## 🛠️ Tech Stack
 
 *   **Frontend**: Streamlit
 *   **Mapping**: Folium & Streamlit-Folium
-*   **AI**: Google Gemini 1.5 Flash
+*   **AI**: Google Gemini 2.5 Flash
 *   **Database**: SQLite
 *   **Image Processing**: Pillow
 *   **Python**: 3.9+

@@ -145,3 +145,4 @@ ecocycle.db
 
 # Streamlit
 .streamlit/secrets.toml
+.DS_Store
